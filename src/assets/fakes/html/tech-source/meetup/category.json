@@ -1,0 +1,2485 @@
+{
+  "data": {
+      "rankedEvents": {
+          "pageInfo": {
+              "hasNextPage": true,
+              "endCursor": "cmVjU291cmNlOm1sLXBvcHVsYXItZXZlbnRzLW5lYXJieSxpbmRleDoyMA==",
+              "__typename": "PageInfo"
+          },
+          "count": 20,
+          "edges": [
+              {
+                  "node": {
+                      "id": "282959424!chp",
+                      "slug": "workshop:-framework-to-optimize-finserv-digital-product-experience-w-heap",
+                      "slugId": "282959424",
+                      "title": "Workshop: Framework to Optimize FinServ Digital Product Experience w/ Heap",
+                      "dateTime": "2022-02-01T15:30-03:00",
+                      "endTime": "2022-02-01T17:00-03:00",
+                      "description": "*** RSVP on LinkedIn: https://bit.ly/3sSZpoR ***\n\nWe all know that optimizing your digital user experience is essential for conversion in Financial Services. But simply gathering data and searching for truly actionable insights can be like digging for a needle in a haystack. Join us for an interactive workshop, tailored to FinServ use cases, and discover how both Heap and autocapture can help you unlock the unknown barriers to conversion in your customer experience. You’ll leave with more ways to ask and answer questions about your products and specific actions you can take to make your customer data work harder for all of your teams.\n\nMain Takeaways:\n- How to unlock unknown barriers to conversion\n- How to ask the right questions of your product and your data\n- The importance of adopting a testing culture through the power of A/B testing\n\nMeet the speaker: Daniel Jimenez\n\nDaniel is a Senior Customer Education Specialist at Heap who tailors his training for both technical and non-technical audiences. Throughout his career, he has devised creative training solutions that yield extremely positive results.\n\nView Speaker's Full Profile (https://bit.ly/3fnDOgs)\n\nGet the FREE Product Book (https://prdct.school/2N303Og) and check out our curated list of free Product Management resources here (https://prdct.school/3rEXjWt)\n\nProduct School (http://bit.ly/2TqhCZ1) is the global leader in Product Management training with a community of over one million product professionals. Our certificates are the most industry-recognized credentials by employers hiring product managers. All of our instructors are senior-level Product Managers working at top Silicon Valley companies including Google, Facebook, Netflix, Airbnb, PayPal, Uber, and Amazon.\n\nDisclaimer: by registering for this event I agree to receive email communications from Product School and all sponsor brands.\n\nGet Your Tickets (https://bit.ly/3sSZpoR)",
+                      "duration": "PT1H30M",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501366899",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Product-School-RJ/events/282959424",
+                      "group": {
+                          "id": "30604501",
+                          "slug": "Product-School-RJ",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Product School Rio de Janeiro",
+                          "urlname": "Product-School-RJ",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Product-School-RJ",
+                          "city": "Rio de Janeiro",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "476667692",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 4,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 4,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1898597235!chp",
+                                      "user": {
+                                          "id": "258141705!chp",
+                                          "memberPhoto": {
+                                              "id": "278600640",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900289470!chp",
+                                      "user": {
+                                          "id": "352913122!chp",
+                                          "memberPhoto": {
+                                              "id": "308909538",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901305461!chp",
+                                      "user": {
+                                          "id": "58074062!chp",
+                                          "memberPhoto": {
+                                              "id": "0",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283485493!chp",
+                      "slug": "info-sessions-le-wagon",
+                      "slugId": "283485493",
+                      "title": "Info Sessions Le Wagon ",
+                      "dateTime": "2022-01-31T19:00-03:00",
+                      "endTime": "2022-01-31T20:00-03:00",
+                      "description": "⭐️ REGISTRE-SE VIA EVENTBRITE PARA RECEBER O WEBINAR LINK: https://www.eventbrite.com.br/e/info-sessions-le-wagon-online-le-wagon-brasil-tickets-255459675767⭐️\n\nQuer mudar de vida em 2021?\n\nSe você está pensando em entrar numa carreira tech, virar um desenvolvedor fullstack, data scientist ou lançar sua própria startup, aprender a codar primeiro é um ótimo começo. 💻\n\nA Le Wagon é a escola de Programação No.1 no mundo inteiro, oferecendo bootcamps imersivos de 9 semanas em período integral e 24 semanas em meio período em Desenvolvimento Web e Data Science para aspirantes a desenvolvedores, profissionais de tecnologia e empreendedores criativos em 39 campi e 22 países.🌎\n\nDesde 2013, nosso currículo de ponta e professores de nível internacional oferecem a mais de 7.300 profissionais de todas as origens as habilidades e ferramentas necessárias para preparar sua carreira para o futuro, iniciar uma carreira em tecnologia, conseguir um emprego como desenvolvedor de software, gerente de produto, ou começar sua própria startup.🤩\n\nSe quiser saber mais, registre-se para a nossa próxima sessão de informações. Apresentaremos o currículo, o formato e os resultados do curso. Também forneceremos uma visão geral de nossos serviços de carreira e destacaremos algumas das histórias de nossos ex-alunos. Por último, mas não menos importante, esta será sua chance de conhecer a equipe, que irá responder às suas perguntas!🤓\n\n✨Online Event✨\n\n📱 SOCIALS 📱\n✅ Curta a gente no Facebook: https://facebook.com/lewagonbrasil\n✅ Olhe nossas fotos no Instagram: https://instagram.com/lewagonbrasil\n✅ Siga nos no Twitter: https://twitter.com/lewagonbrasil\n✅ E porque não, Linkedin: https://linkedin.com/lewagonbrasil",
+                      "duration": "PT1H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501595490",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "zoom",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Le-Wagon-Rio-de-Janeiro-Coding-Bootcamp/events/283485493",
+                      "group": {
+                          "id": "20826299",
+                          "slug": "Le-Wagon-Rio-de-Janeiro-Coding-Bootcamp",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Le Wagon Rio de Janeiro - Coding Bootcamp",
+                          "urlname": "Le-Wagon-Rio-de-Janeiro-Coding-Bootcamp",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Le-Wagon-Rio-de-Janeiro-Coding-Bootcamp",
+                          "city": "Rio de Janeiro",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "457644986",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 1,
+                      "maxTickets": 100,
+                      "tickets": {
+                          "count": 1,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901518071!chp",
+                                      "user": {
+                                          "id": "335478374!chp",
+                                          "memberPhoto": {
+                                              "id": "307582104",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283383211!chp",
+                      "slug": "4-biometria-de-voz-com-d-vectors",
+                      "slugId": "283383211",
+                      "title": "#4 Biometria de voz com D-Vectors",
+                      "dateTime": "2022-01-27T18:30-03:00",
+                      "endTime": "2022-01-27T20:00-03:00",
+                      "description": "meetup #4 - Biometria de voz com D-Vectors - Victor Beraldo\n\nLink da transmissão:\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ODMyZTFlNmEtOGI3My00NjU5LTgwOTMtYzFlMDg5Nzg4MzA1%40thread.v2/0?context=%7b%22Tid%22%3a%22591669a0-183f-49a5-98f4-9aa0d0b63d81%22%2c%22Oid%22%3a%226ac45499-03af-4ce1-bde2-a0b2fc125c10%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a\n_____________________________________________________________________________________\nATENÇÃO: O Meetup altera o horário na hora de salvar na agenda do Google. O horário correto é o apresentado aqui no site do evento!\n_____________________________________________________________________________________\n\nSobre o palestrante Victor Beraldo:\n\nPossui Mestrado em inteligência artificial pela UFABC. Em sua pesquisa se especializou na modelagem de dados de voz para biometria.\n\nGraduado em Engenharia de Informação pela UFABC, descobriu na universidade uma de suas maiores paixões: Usar a tecnologia para processamento de um dos meios de comunicação mais democrático e conhecido entre os seres humanos, a voz.\n\nConheceu no seu estágio em 2017, no mercado financeiro, uma oportunidade única de aplicar seus conhecimentos e impactar a vida de milhões de pessoas. Desde então, atua como cientista de dados de voz no Itaú-Unibanco.",
+                      "duration": "PT1H30M",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501485847",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "googleHangout",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Itau-Data-Science/events/283383211",
+                      "group": {
+                          "id": "30426562",
+                          "slug": "Itau-Data-Science",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Itaú Data Science",
+                          "urlname": "Itau-Data-Science",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Itau-Data-Science",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "498237213",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 101,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 101,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1900924426!chp",
+                                      "user": {
+                                          "id": "286452672!chp",
+                                          "memberPhoto": {
+                                              "id": "290931964",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900924427!chp",
+                                      "user": {
+                                          "id": "280740720!chp",
+                                          "memberPhoto": {
+                                              "id": "308878867",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900924428!chp",
+                                      "user": {
+                                          "id": "230686923!chp",
+                                          "memberPhoto": {
+                                              "id": "268291520",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283471131!chp",
+                      "slug": "2022-mais-produtivo!-usando-praticas-lean-agile!!",
+                      "slugId": "283471131",
+                      "title": "2022 mais Produtivo?!? Usando práticas Lean-Agile!!",
+                      "dateTime": "2022-01-29T10:00-03:00",
+                      "endTime": "2022-01-29T11:30-03:00",
+                      "description": "Nesta palestra você aprenderá a como utilizar algumas práticas do Método Kanban, OKRs, e até mesmo algumas práticas da própria neurociência que podem te ajudar a iniciar 2022.\n\nSobre a palestrante:\n\nJéssica Ferrari, Head de Agilidade na TOTVS\nJéssica está Head de Agilidade na TOTVS , Está na área de desenvolvimento e gestão de projetos de software desde 2009, ajudando grandes organizações a\ntransporem suas barreiras e desafios de forma sistêmica através do Desenvolvimento de Pessoas, Lean e Agile. Voluntária na Comunidade Mulheres Agilistas, Agile Brazil\nno The Dev Conf, Palestrante e Mentora de Carreira, Lean e Ágil.\n\nTem como objetivo transformar a vida das pessoas através do conhecimento!\n\nSobre a palestra: Nesta palestra/workshop você aprenderá a como utilizar algumas práticas do método kanban, okrs, e até mesmo algumas práticas da própria neurociência que podem te ajudar a iniciar 2022.",
+                      "duration": "PT1H30M",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501572930",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/WoMakersCode/events/283471131",
+                      "group": {
+                          "id": "19949665",
+                          "slug": "WoMakersCode",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "WoMakersCode Brasil",
+                          "urlname": "WoMakersCode",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/WoMakersCode",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "486885245",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 97,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 97,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901425982!chp",
+                                      "user": {
+                                          "id": "294209036!chp",
+                                          "memberPhoto": {
+                                              "id": "293628200",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901425983!chp",
+                                      "user": {
+                                          "id": "180099642!chp",
+                                          "memberPhoto": {
+                                              "id": "295628355",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901425984!chp",
+                                      "user": {
+                                          "id": "227768287!chp",
+                                          "memberPhoto": {
+                                              "id": "266995244",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283058752!chp",
+                      "slug": "onlineo-sql-server-e-extremamente-rapido.-voce-que-nao-sabe-usar!-or-parte-9",
+                      "slugId": "283058752",
+                      "title": "[Online]O SQL Server é extremamente rápido. Você que não sabe usar! | Parte 9",
+                      "dateTime": "2022-02-09T21:00-03:00",
+                      "endTime": "2022-02-09T23:00-03:00",
+                      "description": "Estamos de volta em 2022, atendendo a inúmeros pedidos e depois de excelentes feedback que continuam chegando da comunidade técnica. Vamos agora para a parte 9!\n\nConfira esta apresentação ONLINE e GRATUITA no Canal .NET em que serão mostradas mais dicas e técnicas de como otimizar o desempenho de bancos SQL Server, obtendo assim o máximo desse excelente SGBD! Falaremos novamente de muita coisa legal... e muito além de NOLOCK e Missing Index!\n\nPalestrantes já confirmados:\n- Dirceu Resende - Microsoft MVP\n- Renato Groffe - Microsoft MVP, MTAC\n\nNão assistiu alguma das edições passadas ou gostaria de rever algum conteúdo? Acesse então a playlist com a gravação das lives anteriores:\n\nhttps://www.youtube.com/playlist?list=PLAbYWcQD84aPp3SzYGiEOa9tOl2ShTL2y\n\nNão deixem de acompanhar! Convidem amigas, amigos e colegas de trabalho!\n\nAinda não segue o Canal .NET nas redes sociais? Faça sua inscrição então, para ficar por dentro de novidades sobre eventos, tecnologias Microsoft e outros conteúdos gratuitos:\n\n- Telegram: https://t.me/canaldotnet​​​\n\n- Facebook: https://www.facebook.com/canaldotnet\n\n- YouTube: https://www.youtube.com/canaldotnet",
+                      "duration": "PT2H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "491680765",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/dotnet-Sao-Paulo/events/283058752",
+                      "group": {
+                          "id": "21477122",
+                          "slug": "dotnet-Sao-Paulo",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": ".NET São Paulo",
+                          "urlname": "dotnet-Sao-Paulo",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/dotnet-Sao-Paulo",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "461241897",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 212,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 212,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1899138537!chp",
+                                      "user": {
+                                          "id": "149709582!chp",
+                                          "memberPhoto": {
+                                              "id": "308839858",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1899138538!chp",
+                                      "user": {
+                                          "id": "187846737!chp",
+                                          "memberPhoto": {
+                                              "id": "299229170",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1899138539!chp",
+                                      "user": {
+                                          "id": "184543666!chp",
+                                          "memberPhoto": {
+                                              "id": "243904854",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "282400483!chp",
+                      "slug": "formacao-seguranca-no-azure-lgpd-iaas-paas-waf-az-303-az-500-online",
+                      "slugId": "282400483",
+                      "title": "Formação Segurança no Azure - LGPD, IAAS, PAAS, WAF - AZ-303 AZ-500 - online",
+                      "dateTime": "2022-01-29T08:30-03:00",
+                      "endTime": "2022-01-30T16:30-03:00",
+                      "description": "Garanta sua vaga: www.azureacademy.com.br/seguranca\nAulas ao vivo, desafios de projetos e interatividade em tempo real com especialistas. Certificado internacional de participação. Garanta sua vaga: www.azureacademy.com.br\n\nCompre também através do WhatsApp: 11 97069 1170 - Condições exclusivas.\n\nEntre os temas: REDES SEGURAS, VMS, STORAGE, LGPD, BANCOS DE DADOS, FIREWALLS, AD, PROTEÇÃO DE SERVIÇOS PAAS, SENTINEL, CENTRAL DE SEGURANÇA, GATEWAYS E MAIS.\n\nBenefícios:\n- Certificado internacional de participação.\n- Aulas ao vivo, interação e tira dúvidas em tempo real.\n- Portal do aluno e material exclusivo direto ao assunto.\n- Hands-on prático e desafios de projetos reais a todo momento.\n- Vídeos passo a passo para refazer os labs quando quiser.\n- Livro digital com 200 páginas sobre Azure.\n- Dicas para exames oficiais.\n- Grupos de estudos para tira dúvidas com especialistas.\n\nReceba novidades sobre Trilhas, eventos, vouchers e mais. Participe da Newsletter no Telegram: https://t.me/azureacademy",
+                      "duration": "PT32H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "495005212",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/AzureAcademy/events/282400483",
+                      "group": {
+                          "id": "33214855",
+                          "slug": "AzureAcademy",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Azure Academy",
+                          "urlname": "AzureAcademy",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/AzureAcademy",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "489970939",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 17,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 17,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1895902545!chp",
+                                      "user": {
+                                          "id": "210320638!chp",
+                                          "memberPhoto": {
+                                              "id": "267021771",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1895902839!chp",
+                                      "user": {
+                                          "id": "303827383!chp",
+                                          "memberPhoto": {
+                                              "id": "298048273",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1895905307!chp",
+                                      "user": {
+                                          "id": "240840061!chp",
+                                          "memberPhoto": {
+                                              "id": "272262321",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283488984!chp",
+                      "slug": "apache-kafka(r)-fundamentals-(with-cloud-component)",
+                      "slugId": "283488984",
+                      "title": "Apache Kafka® Fundamentals (with Cloud component)",
+                      "dateTime": "2022-02-14T13:00-03:00",
+                      "endTime": "2022-02-14T14:30-03:00",
+                      "description": "Hello Streamers!\n\nJoin us for an Apache Kafka® meetup on Monday, February 14th, at 1:00 pm GMT-3 This meetup will be presented in English. Please find the details to join this informative meetup below.\n\nFind information about upcoming meetups and tons of content from past Kafka Meetups all over the world:\ncnfl.io/meetup-hub\n-----\nAgenda (time below is GMT-3):\n1:00pm-2:00pm: Apache Kafka Fundamentals (with Cloud component), Doug Hogan, Sr. Technical Trainer, Confluent\n\n2:00pm-2:30pm: Lab and Q&A\n-----\nSpeaker:\nDoug Hogan, Sr. Technical Trainer, Confluent\n\nTitle:\nApache Kafka Fundamentals (with Cloud component)\n\nAbstract:\nApache Kafka was built with the vision to become the central nervous system that makes real-time data available to all the applications that need to use it, with numerous use cases like stock trading and fraud detection, to transportation, data integration, and real-time analytics. Whether you’re just getting started or have already built stream processing applications, you will find actionable insights in this series that will enable you to further derive business value from your data systems.\n\nBio:\nDoug Hogan is a senior technical trainer at Confluent. He works as the course champion for the Developer Skills course and has been working on enhancing interactivity and engagement in Confluent Training. Before coming to Confluent, he spent about a decade teaching university computer science and math classes.\n\n-----\nOnline Meetup Etiquette:\n•Please unmute yourself when you have a question.\n•Please hold your questions until the end of the presentation or use the zoomchat!\n•Please arrive on time as zoom meetings can become locked for many reasons (though if you get locked out a recording will be available, but you may have to wait a little while for it!)\n\n----\nDon't forget to join our Forum and Community Slack Team! https://www.confluent.io/community/ask-the-community/\n\nIf you would like to speak or host our next event please let us know! community@confluent.io",
+                      "duration": "PT1H30M",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "zoom",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Sao-Paulo-Apache-Kafka-Meetup-by-Confluent/events/283488984",
+                      "group": {
+                          "id": "22842999",
+                          "slug": "Sao-Paulo-Apache-Kafka-Meetup-by-Confluent",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "São Paulo Apache Kafka® Meetup by Confluent",
+                          "urlname": "Sao-Paulo-Apache-Kafka-Meetup-by-Confluent",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Sao-Paulo-Apache-Kafka-Meetup-by-Confluent",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "458994685",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 14,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 14,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901534657!chp",
+                                      "user": {
+                                          "id": "221715600!chp",
+                                          "memberPhoto": {
+                                              "id": "264128356",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901535208!chp",
+                                      "user": {
+                                          "id": "301757763!chp",
+                                          "memberPhoto": {
+                                              "id": "297046778",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901535690!chp",
+                                      "user": {
+                                          "id": "121171052!chp",
+                                          "memberPhoto": {
+                                              "id": "160470182",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283019025!chp",
+                      "slug": "garoa-python-lab-online-apenas",
+                      "slugId": "283019025",
+                      "title": "Garoa Python Lab [ONLINE APENAS]",
+                      "dateTime": "2022-02-14T19:30-03:00",
+                      "endTime": "2022-02-14T22:30-03:00",
+                      "description": "Bate papo sobre Python que acontece na 2ª segunda-feira de cada mês.\n\nO Garoa Hacker Clube deseja as boas-vindas ao nosso espaço!\n\nhttp://garoa.net.br\n\nRegras:\n- Assédio, e desrespeito aos participantes não serão tolerados\n- Be excellent to each other\n- Leia nosso FAQ: https://garoa.net.br/wiki/FAQ\n\nEste evento também tem uma página em nosso wiki:\nhttps://garoa.net.br/wiki/Python_Lab",
+                      "duration": "PT3H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "483015408",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -23.56255,
+                          "lng": -46.699245,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Garoa-Hacker-Clube/events/283019025",
+                      "group": {
+                          "id": "25808831",
+                          "slug": "Garoa-Hacker-Clube",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Garoa Hacker Clube",
+                          "urlname": "Garoa-Hacker-Clube",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Garoa-Hacker-Clube",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "467318752",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 23,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 23,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1898912627!chp",
+                                      "user": {
+                                          "id": "196132766!chp",
+                                          "memberPhoto": {
+                                              "id": "261261476",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1898912628!chp",
+                                      "user": {
+                                          "id": "351147734!chp",
+                                          "memberPhoto": {
+                                              "id": "308671441",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1899595192!chp",
+                                      "user": {
+                                          "id": "347283836!chp",
+                                          "memberPhoto": {
+                                              "id": "308292261",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283467287!chp",
+                      "slug": "papo-de-dev-como-gerenciar-memoria-com-.net-nas-suas-aplicacoes",
+                      "slugId": "283467287",
+                      "title": "[Papo de Dev] Como GERENCIAR MEMÓRIA COM .NET nas suas aplicações",
+                      "dateTime": "2022-01-27T18:30-03:00",
+                      "endTime": "2022-01-27T20:00-03:00",
+                      "description": "No próximo dia 27/01, você não pode perder mais um super Papo de Dev!\nNele teremos dois especialistas da Avanade, o Samuel Camilo e o Felipe Augusto, ambos gerente de arquitetura, e mostrarão na prática e em detalhes, conceitos e técnicas de Gerenciamento de Memória no .NET, além de recursos como Garbage Collector, Threads & Tasks, e boas práticas.\n\nE para começar isso tudo e aquecer o motores, teremos como convidado o nosso querido Arthur Dias, Gerente de Educação, reponsável pela área de Capability to Growth aqui na Avanade, que vai falar da importância da capacitação profissional e quais vantagens a Avanade oferece aos seus colaboradores, e claro, conduzido pela nossa apresentadora Camila Ribeiro!\n\nMais um Papo de Dev imperdível, não vai perder né?!?!?\nPra participar é só acionar o lembrete do vídeo que você será avisado no dia!\n\n#GoOrange\n#VemPraAvanade https://bit.ly/carreira-avanade",
+                      "duration": "PT1H30M",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501577693",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Avanade-Brasil/events/283467287",
+                      "group": {
+                          "id": "33850695",
+                          "slug": "Avanade-Brasil",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Avanade Brasil",
+                          "urlname": "Avanade-Brasil",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Avanade-Brasil",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "490907472",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 8,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 8,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901403950!chp",
+                                      "user": {
+                                          "id": "311608226!chp",
+                                          "memberPhoto": {
+                                              "id": "303174592",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901432812!chp",
+                                      "user": {
+                                          "id": "288743076!chp",
+                                          "memberPhoto": {
+                                              "id": "291931625",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901433929!chp",
+                                      "user": {
+                                          "id": "201153973!chp",
+                                          "memberPhoto": {
+                                              "id": "254592811",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283486326!chp",
+                      "slug": "americanas-s.a.-meetup-or-lgpd-generics-e-cadastros:-o-que-eles-tem-em-comum",
+                      "slugId": "283486326",
+                      "title": "americanas s.a. meetup | LGPD, Generics e Cadastros: O que eles têm em comum?",
+                      "dateTime": "2022-01-27T12:00-03:00",
+                      "endTime": "2022-01-27T13:30-03:00",
+                      "description": "Já reservou um espaço na agenda para nosso americanas s.a. meetup, em parceria com a comunidade Sou Java?! 🚀\n\n📅 No dia 27/01, às 12h, te esperamos para trocar conosco neste bate-papo super interessante sobre o case de \"Cadastros na americanas s.a.\". Iremos falar como adaptamos o cadastro de cliente nas nossas plataformas para atender a uma das exigências da LGPD.\n\nAlém de saber mais sobre o tema, ao final você ainda concorre a sorteios! 😉\n\nYOUTUBE: https://www.youtube.com/watch?v=RiCfEv6WnJs\n\nNão vai perder, hein? ❤️\n\n--------\n\nConfira quem vai palestrar e contribuir com nosso encontro:\n\n- Anna Sá\nGerente de Tecnologia | americanas s.a.\n\nÉ uma profissional de TI há 11 anos, 8 deles na americanas s.a. Foi desenvolvedora, líder e hoje é gerente do Projeto Customer.\nEla não acredita em projetos que não sejam feitos em equipe e tem medo de \"gambiarras\".\n\n--------\n\nAproveite e siga as redes da americanas s.a.\n\n- Americanas S.A.\nLinkedin: https://www.linkedin.com/company/americanas-sa/about/\nInstagram:https://www.instagram.com/carreiras.americanas/\n\nVAGAS Americanas S.A.: https://carreiras.americanas.com/\n⠀",
+                      "duration": "PT1H30M",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501595787",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/americanas-meetup/events/283486326",
+                      "group": {
+                          "id": "31602054",
+                          "slug": "americanas-meetup",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "americanas s.a. meetup",
+                          "urlname": "americanas-meetup",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/americanas-meetup",
+                          "city": "Rio de Janeiro",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "500280990",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 9,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 9,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901521865!chp",
+                                      "user": {
+                                          "id": "281081273!chp",
+                                          "memberPhoto": {
+                                              "id": "298768854",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901521866!chp",
+                                      "user": {
+                                          "id": "320871916!chp",
+                                          "memberPhoto": {
+                                              "id": "304065998",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901522235!chp",
+                                      "user": {
+                                          "id": "353817631!chp",
+                                          "memberPhoto": {
+                                              "id": "309065705",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283243832!chp",
+                      "slug": "agilidade-e-automatizacao-para-gestao-agil-de-projetos",
+                      "slugId": "283243832",
+                      "title": "Agilidade e Automatização para Gestão Ágil de Projetos",
+                      "dateTime": "2022-02-15T20:00-03:00",
+                      "endTime": "2022-02-15T21:00-03:00",
+                      "description": "Nesta trilogia, você vai aprender como automatizar a gestão de ideias, portfólios e projetos, combinando diferentes ferramentas da suíte Microsoft (Forms, SharePoint, Teams e Planner) de maneira totalmente integrada e automatizada graças ao Power Automate (sem código!).\n\nAgilidade e Automatização para Gestão Ágil de Projetos\nNesta segunda sessão, as ideias aprovadas vão se transformar em projetos. Uma vez aprovado o projeto, um canal específico para a gestão deste projeto será criado, permitindo o uso do Microsoft Planner para gestão de tarefas. Os documentos também podem ser gerenciados de maneria centralizada e colaborativa.\n\nSpeakers\n\nMario Trentim: Conselheiro de Tecnologia do Grupo Primo, Microsoft Regional Director. Engenheiro e mestre pelo ITA, doutorando em Engenharia da Computação. Possui 18 anos de experiência nas áreas de inovação e tecnologia, tendo sido membro do conselho no PMWB.org e PMIEF.org.\nhttps://www.linkedin.com/in/trentim\n\nGustavo Moraes: Diretor de Operações da TRENTIM Gestão & Tecnologia, Microsoft Certified Trainer, organizador do PUG-SP Microsoft Dynamics.\nhttps://www.linkedin.com/in/gustavomoraess/\n\nPróxima e última sessão:\n22 de fevereiro: Gerenciamento de Portfólio Integrado com Power Automate e Power BI",
+                      "duration": "PT1H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501367952",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/events/283243832",
+                      "group": {
+                          "id": "33529733",
+                          "slug": "Microsoft-Reactor-Sao-Paulo",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Microsoft Reactor São Paulo",
+                          "urlname": "Microsoft-Reactor-Sao-Paulo",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Microsoft-Reactor-Sao-Paulo",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "497814742",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 30,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 30,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1900273692!chp",
+                                      "user": {
+                                          "id": "340407666!chp",
+                                          "memberPhoto": {
+                                              "id": "307174664",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900273969!chp",
+                                      "user": {
+                                          "id": "273892829!chp",
+                                          "memberPhoto": {
+                                              "id": "293667398",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900274628!chp",
+                                      "user": {
+                                          "id": "311016084!chp",
+                                          "memberPhoto": {
+                                              "id": "299456422",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283401311!chp",
+                      "slug": "como-revender-chatbots-tudo-o-que-voce-precisa-saber-antes-de-comecar!",
+                      "slugId": "283401311",
+                      "title": "Como revender chatbots?  Tudo o que você precisa saber antes de começar!",
+                      "dateTime": "2022-02-01T20:00-03:00",
+                      "endTime": "2022-02-01T21:00-03:00",
+                      "description": "Se você tem uma consultoria ou empresa e quer ampliar as suas oportunidades de vendas com a revenda de chatbots, esse webinar foi criado para você!\n\nSegundo estudo do Gartner Group, chamado \"Tecnologias emergentes: gastos com tecnologia de IA em 2021\", cerca de 33% das empresas do setor apostam em investimentos de US$ 1 milhão ou mais em Inteligência Artificial nos próximos 2 anos.\n\nGrande parte da AI implementada que temos hoje é através dos chatbots, os assistentes virtuais que mudaram a forma como fazemos diversas atividades do dia a dia.\n\nAs empresas ganham grandes oportunidades de aplicação dessa tecnologia (bots) para criação de novos produtos, serviços e negócios, gerar novas fontes de receita, reduzir custos, melhorar a produtividade e consequentemente, criar uma experiência incrível para os clientes.\n\nPensando na complexidade do desenvolvimento de plataformas de chatbots, o mercado se mantém aquecido com as consultorias que revendem essa solução.\n\nNesse webinar, você irá aprender como escolher a melhor plataforma, como revender o serviço, quais as vantagens de terceirizar, entender se é realmente lucrativo e muito mais!\n\nInscreva-se e prepare-se para revender chatbots: https://hubs.la/Q012CM_60",
+                      "duration": "PT1H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501498175",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/botbattles/events/283401311",
+                      "group": {
+                          "id": "27039920",
+                          "slug": "botbattles",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Bot Battles",
+                          "urlname": "botbattles",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/botbattles",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "480356583",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 8,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 8,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901017376!chp",
+                                      "user": {
+                                          "id": "288514510!chp",
+                                          "memberPhoto": {
+                                              "id": "291834881",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901019212!chp",
+                                      "user": {
+                                          "id": "312161049!chp",
+                                          "memberPhoto": {
+                                              "id": "299966781",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901019456!chp",
+                                      "user": {
+                                          "id": "304176117!chp",
+                                          "memberPhoto": {
+                                              "id": "0",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283448461!chp",
+                      "slug": "bitdevs-em-portugues-seminario-socratico-006",
+                      "slugId": "283448461",
+                      "title": "Bitdevs em Português - Seminário Socrático #006",
+                      "dateTime": "2022-02-03T19:00-03:00",
+                      "endTime": "2022-02-03T21:00-03:00",
+                      "description": "BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.\n\nNo meetup discutimos as últimas notícias, PRs, e-mails na mailing list e qualquer outro assunto técnico relacionado a Bitcoin, Lightning Network e outros projetos open source como BtcPay Server, Raspiblitz, Bisq, entre outros.\n\nEntre no nosso grupo do Telegram se quiser receber ao longo do mês alguns dos links/temas que serão discutidos e se quiser ajudar na curadoria dos encontros!\nhttps://t.me/joinchat/lHusQ1bV9fUyNDY5",
+                      "duration": "PT2H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501550774",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "googleHangout",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/bitdevsemportugues/events/283448461",
+                      "group": {
+                          "id": "33368649",
+                          "slug": "bitdevsemportugues",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Bitcoin Devs em Português",
+                          "urlname": "bitdevsemportugues",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/bitdevsemportugues",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "499830757",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 6,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 6,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901288669!chp",
+                                      "user": {
+                                          "id": "250464713!chp",
+                                          "memberPhoto": {
+                                              "id": "275630661",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901288837!chp",
+                                      "user": {
+                                          "id": "159263072!chp",
+                                          "memberPhoto": {
+                                              "id": "215211852",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901312543!chp",
+                                      "user": {
+                                          "id": "257936379!chp",
+                                          "memberPhoto": {
+                                              "id": "278525021",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283370206!chp",
+                      "slug": "lgpd-generics-e-cadastros:-o-que-eles-tem-em-comum",
+                      "slugId": "283370206",
+                      "title": "LGPD, Generics e Cadastros: O que eles têm em comum?",
+                      "dateTime": "2022-01-27T12:00-03:00",
+                      "endTime": "2022-01-27T13:00-03:00",
+                      "description": "Vamos nos encontrar dia 27 de Janeiro às 12h lá no canal do sou Java para ouvir a Anna Sá?\n\nOnde: https://www.youtube.com/watch?v=RiCfEv6WnJs\nQuando: 27 Jan 2022, às 12h\n\nNesta talk, ela abordará o case de \"Cadastros na Americanas S.A.\" para apresentar como o time adaptou o cadastro de cliente nas plataformas da Americanas S.A. para atender a uma das exigências da LGPD.\n\nEste é um meetup do SouJava em parceria com a Americanas S.A. Além de compartilhamento de conhecimento vindo diretamente de alguém que vivenciou cada desafio compartilhado, ao final do meet-up você ainda concorre em sorteios!\n\nConheça um pouco sobre a Anna:\nAnna Sá é uma profissional de TI há 11 anos, 8 deles na Americanas S.A.. Foi desenvolvedora, líder e hoje é gerente do Projeto Customer.\nEla não acredita em projetos que não sejam feitos em equipe e tem medo de \"gambiarras\".",
+                      "duration": "PT1H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501475877",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/SouJava/events/283370206",
+                      "group": {
+                          "id": "31862148",
+                          "slug": "SouJava",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "SouJava",
+                          "urlname": "SouJava",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/SouJava",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "488803831",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 22,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 22,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1900852339!chp",
+                                      "user": {
+                                          "id": "234181169!chp",
+                                          "memberPhoto": {
+                                              "id": "269768633",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900852340!chp",
+                                      "user": {
+                                          "id": "193310433!chp",
+                                          "memberPhoto": {
+                                              "id": "299156044",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901037451!chp",
+                                      "user": {
+                                          "id": "327806677!chp",
+                                          "memberPhoto": {
+                                              "id": "303861704",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "282840761!chp",
+                      "slug": "the-agile-way-to-scale-with-eyal-toledano-(dollar200m-exit)",
+                      "slugId": "282840761",
+                      "title": "The Agile Way to Scale with Eyal Toledano ($200M Exit) ",
+                      "dateTime": "2022-02-16T14:30-03:00",
+                      "endTime": "2022-02-16T16:30-03:00",
+                      "description": "RSVP here: https://foundersnetwork.com/function/the-agile-way-to-scale-with-eyal-toledano-200m-exit/?utm_source=meetup&utm_medium=event_listing&utm_campaign=meetup_0216_the_agile_way_to_scale_with_eyal_toledano_200m_exit\n\n\"📈 Are you struggling to scale your startup?\n\n📈 Scaling a startup is hard. Scaling a startup with limited resources? Even harder.\n\nOn 2/16 at 9:30am PST\n\nJoin Eyal Toledano, Co-Founder and CTO at Zebra Medical Vision Ltd (200M exit acquired by Nano-X Imaging) as he presents his secret sauce for scaling a startup.\n~ Why an algorithm is not a solution or a product\n~ How to forms bands and guilds\n~ What every healthcare startup should know\n~ How to generate velocity when you have more models than team members\n\nEyal Toledano\n\nEyal Toledano is the co-founder and CTO of Zebra Medical Vision (acquired by Nano-X Imaging). Eyal focuses on innovation and leadership in AI machine vision and engineering data platforms to power healthcare. Graduated with a Master of Science from MIT Media Lab, Eyal served as the CTO and Advanced Technology GM for Samsung Israel R&D (STRI/Yakum). Before co-founding Zebra and the Israeli R&D of Samsung, Eyal served as officer and team leader in the IDF Elite Intelligence Technology unit. Eyal hacks code every day. He is a father to 8-year-old Yuval who teaches him something new about the real world every day.\n\n💻 RSVP here for FREE: https://fndrs.net/3epORoW\n\n**** RSVPing on Meetup alone does not equal event registration. ****",
+                      "duration": "PT2H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501051049",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/founders-network-sao-paulo/events/282840761",
+                      "group": {
+                          "id": "35889323",
+                          "slug": "founders-network-sao-paulo",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Founders Network São Paulo",
+                          "urlname": "founders-network-sao-paulo",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/founders-network-sao-paulo",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "498978865",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 3,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 3,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1898056313!chp",
+                                      "user": {
+                                          "id": "39471172!chp",
+                                          "memberPhoto": {
+                                              "id": "303673986",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1900596949!chp",
+                                      "user": {
+                                          "id": "338333686!chp",
+                                          "memberPhoto": {
+                                              "id": "0",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901510011!chp",
+                                      "user": {
+                                          "id": "184384123!chp",
+                                          "memberPhoto": {
+                                              "id": "243767195",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283483164!chp",
+                      "slug": "bim-na-6a-(sem-mimimi)",
+                      "slugId": "283483164",
+                      "title": "BIM NA 6ª (sem mimimi)",
+                      "dateTime": "2022-02-04T16:15-03:00",
+                      "endTime": "2022-02-04T17:15-03:00",
+                      "description": "Desmistificar BIM;\nConhecer ferramentas;\nDesafios das organizações (públicas e privadas)?\nBIM é problema de quem? O que eu tenho a ver com isso?\nComo a Autodesk pode ajudar?",
+                      "duration": "PT1H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501593755",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "googleHangout",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/autodesk-em-minas-gerais/events/283483164",
+                      "group": {
+                          "id": "36104916",
+                          "slug": "autodesk-em-minas-gerais",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Autodesk Em Minas Gerais",
+                          "urlname": "autodesk-em-minas-gerais",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/autodesk-em-minas-gerais",
+                          "city": "Belo Horizonte",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "501593728",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 1,
+                      "maxTickets": 25,
+                      "tickets": {
+                          "count": 1,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901503121!chp",
+                                      "user": {
+                                          "id": "246666807!chp",
+                                          "memberPhoto": {
+                                              "id": "308976470",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "NOT_OPEN_YET",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283504425!chp",
+                      "slug": "webinar-gratuito-protecao-de-dados:-seus-projetos-estao-preparados",
+                      "slugId": "283504425",
+                      "title": "Webinar Gratuito - Proteção de Dados: Seus projetos estão preparados?",
+                      "dateTime": "2022-01-31T19:30-03:00",
+                      "endTime": "2022-01-31T21:30-03:00",
+                      "description": "Aproveitando o Dia Internacional da Proteção de Dados, nós organizamos o Webinar Gratuito - Proteção de dados: Seu projeto de engenharia ou ciência de dados já estão preparados?\n\nSerá realizado dia 31 de Janeiro a partir das 19h30, contaremos com a participação de três profissionais que lidam no dia a dia no manuseio de dados.\n\nConvidamos você a participar e conhecer o que pode fazer com os dados coletados sob a ótica da jurisprudência.\n\nInscreva-se em: https://bit.ly/3KJ5bzT",
+                      "duration": "PT2H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501610091",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": {
+                          "type": "other",
+                          "url": null,
+                          "__typename": "OnlineVenue"
+                      },
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/labdata-fia/events/283504425",
+                      "group": {
+                          "id": "33295876",
+                          "slug": "labdata-fia",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "LABDATA - FIA",
+                          "urlname": "labdata-fia",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/labdata-fia",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "488768759",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 8,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 8,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901624778!chp",
+                                      "user": {
+                                          "id": "193019233!chp",
+                                          "memberPhoto": {
+                                              "id": "297187578",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901627991!chp",
+                                      "user": {
+                                          "id": "287706295!chp",
+                                          "memberPhoto": {
+                                              "id": "308239390",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901628081!chp",
+                                      "user": {
+                                          "id": "158574522!chp",
+                                          "memberPhoto": {
+                                              "id": "268876085",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283188877!chp",
+                      "slug": "analyticsclub-jobexpo-virtual-business-data-and-technology-job-expo",
+                      "slugId": "283188877",
+                      "title": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+                      "dateTime": "2022-02-04T11:00-03:00",
+                      "endTime": "2022-02-04T14:00-03:00",
+                      "description": "AnalyticsCLUB JobExpo is created to promote virtual, happy, and healthy hiring within the Data Analytics Community. The signature program from Analytics.CLUB would attract 150,000 global participants(About 6k recruiters and 150k global seekers).\nTo learn more, read JobExpo FAQ at https://tao.ai/jobexpo/faq.\n\nThe Process:\nCreate an account on https://analytics.club\nVisit https://analytics.club/jobexpo and register your interest\n5-7 days before the event, JobExpo will communicate with everyone to complete the signup process(register as a job seeker, recruiter or partner, if not already completed)\n3-5 days before the event, JobExpo will communicate with everyone about the process\n1-3 days before the event, JobExpo will communicate with everyone about approving the potential matches\nOn suggested timeslots(transmitted via JobExpo communication) all the subscriber will come to JobExpo site and interact withing the right groups/chat sessions to take job conversation forward\nAfter JobExpo, all subscribers are encouraged to provide feedback so that TAO.ai could enhance the personal experience for all the subscribers.\n* Please note JobExpo always value your time and ensures you never have to wait unless JobExpo has identified a match for you.\n\nWhy it Matters?\nBest industry hirings are done with the power of networking and reference. JobExpo uses the power of skill connectivity and an identical profile portfolio to connect similar candidates to relevant opportunities. JobExpo brings relationships and connection back into hiring.\n\nTakeaways?\nWe expect the event to:\n1. Create interesting conversations\n2. Improve access to local talent and local opportunities\n3. Provide a venue to promote effective hiring\n4. Connect professionals with other seekers so they could collaborate and improve their search\n5. Discover what some of the top businesses are looking for in a talent\n6. Educate recruiters and job seekers about top trends and hiring skills that are trendy and rising.\n\nAbout JobExpo\nJobExpo is World's largest open community talent platform that is built on the TAO.ai Talent Analytics Artificial Intelligence platform to bring virtual career events to various communities around the World. JobExpo event currently powers more than 2 million communities around the globe.\n\nAbout TAO.ai\nTAO.ai is created out of a need from AnalyticsWeek. In the age when Artificial Intelligence is synonymized with losing jobs, AnalyticsWeek's vast community started demanding an Artificial Intelligence that could help people find employment, live better professional life and enjoy a healthy, happy, and growth centered life. TAO.ai currently powers several large internet communities and assisting people in living healthy and happy.",
+                      "duration": "PT3H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "491116169",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/ac-gru/events/283188877",
+                      "group": {
+                          "id": "18665778",
+                          "slug": "ac-gru",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Analytics.Club Sao Paulo",
+                          "urlname": "ac-gru",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/ac-gru",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "443058253",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 5,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 5,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1899843940!chp",
+                                      "user": {
+                                          "id": "188491719!chp",
+                                          "memberPhoto": {
+                                              "id": "246961651",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1899843941!chp",
+                                      "user": {
+                                          "id": "331982663!chp",
+                                          "memberPhoto": {
+                                              "id": "304882246",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1899999158!chp",
+                                      "user": {
+                                          "id": "352559353!chp",
+                                          "memberPhoto": {
+                                              "id": "308874326",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283511631!chp",
+                      "slug": "lean-coffee-sao-paulo-115-(online)",
+                      "slugId": "283511631",
+                      "title": "Lean Coffee São Paulo #115 (ONLINE)",
+                      "dateTime": "2022-02-19T10:00-03:00",
+                      "endTime": "2022-02-19T12:00-03:00",
+                      "description": "Olá olá!!\n\nMuito top ter você conosco!!\nDescubra tudo sobre o Lean Coffee SP, aqui abaixo 👇\n\n*********** DE ONDE VEIO O LEAN COFFEE? ***********\n- https://www.meetup.com/Lean-Coffee-Sao-Paulo/\n.\n.\n.\n.\n\n*********** COMO É O EVENTO (VERSÃO RESUMIDA) ***********\n\n- Nos dividimos em grupos de 8 a 15 pessoas em média, para falar sobre os tópicos de agilidade que mais interessa aos presentes\n- Haverá 1 facilitador por grupo, conduzindo toda a dinâmica para você\n- Começamos às 10am, com 2h de duração;\n- Seja pontual para não perder a divisão dos grupos\n- A ferramenta é o Zoom (link disponível às 19h do dia anterior na página do meetup e no seu email)\n- Câmera e microfone abertos sempre!\n- 100% interação (aqui não tem palestra)\n.\n.\n.\n.\n\n*********** COMO É O EVENTO (VERSÃO LONGUÍSSIMA) ***********\n\n1) AGENDA DO EVENTO\n\nOverview:\n* 10:00 - boas vindas e orientações\n* 10:10 - divisão em grupos e início da diversão!!\n* 11:45 - fim das discussões, feedback do evento, se conectando no linkedin e foto de despedida\n* 12:00 - fim!\nobs: pode haver variações nessa agenda.\n.\n.\n.\n.\n\n2) FORMA DE ACESSO\n\nÀs 19h do dia anterior ao evento (sexta-feira), o link de acesso estará disponível em duas formas:\n- na própria página do evento no meetup.com\n- no seu email (olhe sua caixa de spam)\n\n.\n.\n.\n.\n\n3) DINÂMICA DE PARTICIPAÇÃO\n\nA dinâmica do evento é feita para favorecer a participação de todos.\n\nO evento é 100% baseado na discussão, troca de ideias e opiniões entre todos os participantes, divididos em pequenos grupos.\n\nTodos vão fazer perguntas (por voz), se manifestar visualmente por câmera, interagir entre si, usar o board virtual e outras ferramentas. Por isso, é um evento para dedicar tempo, estar presente e para quem está com câmera e microfone ligados.\n\nSe não puder estar conosco nesses moldes, meu pedido é que libere a vaga, para que outras pessoas possam aproveitar essa oportunidade.\n.\n.\n.\n.\n\n4) PRESENÇA\n\nTemos limite de acesso mesmo no formato online por limitação da nossa conta do Zoom e para calcular quantos facilitadores precisaremos, então seu comprometimento no momento de se inscrever é indispensável, porque se você se inscrever sem intenção de ir, só para ‘garantir a vaga’, você vai estar tirando a oportunidade de alguém que realmente iria estar conosco, ou ainda, que esteja precisando de uma oportunidade de networking como essa.\n\nSe você não tem certeza se vai conseguir estar conosco, apenas peço que libere sua vaga. Temos esse evento todo mês, então não há necessidade de guardar lugar.\n\nAlém disso, estamos alocando diversos profissionais top de mercado exclusivamente para estar conosco facilitando os grupos. Mais um motivo para só se inscrever se realmente for estar conosco.\n.\n.\n.\n4) FERRAMENTA DE ACESSO\n\nVamos usar o Zoom como ferramenta de interação. É uma ferramenta gratuita, em que será preciso apenas baixar o software no seu computador, instalar, e fazer um cadastro.\n\nPara baixar o Zoom use site oficial em: https://zoom.us/download (só faça download do Zoom pela página oficial deles, do zoom.us)\n\nUma vez você clicando no link, vai se abrir a sala que vamos usar para fazer o evento.\nEsse link será exclusivo para você e intransferível.\n.\n.\n.\n.\n----\nPronto, É isso.\n\nGrande abraço e nos vemos no Lean Coffee SP!!\nEquipe Lean Coffee SP\n\n---\nPS: O evento começa às ** 10am (dez horas da manhã) *** (independente do que o meetup.com estiver mostrando para vc)",
+                      "duration": "PT2H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Lean-Coffee-Sao-Paulo/events/283511631",
+                      "group": {
+                          "id": "15899052",
+                          "slug": "Lean-Coffee-Sao-Paulo",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "Lean Coffee São Paulo",
+                          "urlname": "Lean-Coffee-Sao-Paulo",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Lean-Coffee-Sao-Paulo",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "480040085",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 37,
+                      "maxTickets": 50,
+                      "tickets": {
+                          "count": 37,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901662545!chp",
+                                      "user": {
+                                          "id": "179168802!chp",
+                                          "memberPhoto": {
+                                              "id": "269865008",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901663136!chp",
+                                      "user": {
+                                          "id": "343131274!chp",
+                                          "memberPhoto": {
+                                              "id": "307742785",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901663261!chp",
+                                      "user": {
+                                          "id": "303514098!chp",
+                                          "memberPhoto": {
+                                              "id": "297900646",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              },
+              {
+                  "node": {
+                      "id": "283400385!chp",
+                      "slug": "tibco-analytics-meetup",
+                      "slugId": "283400385",
+                      "title": "TIBCO Analytics Meetup",
+                      "dateTime": "2022-02-08T14:00-03:00",
+                      "endTime": "2022-02-08T15:00-03:00",
+                      "description": "Please register at the link below. (Must be registered to attend)\nhttps://www.tibco.com/events/tibco-analytics-meetup-5\n\nEvery quarter, our analytics experts present a 30 minute update to our virtual user community. This quarter we dive into the data science life cycle – data access, data prep, feature engineering, model development, model deployment, model monitoring, model rebasing – as we demonstrate a dynamic pricing solution in action. Join the live discussion with Chief Analytics Officer Michael O’Connell and the TIBCO Data Science team.\n\nAgenda\n\n- The data science lifecycle by Michael O’Connell, Chief Analytics Officer\n- Live demo of a dynamic pricing solution for an Insurance quote system by Colin Gray, Sr. Lead Data Scientist\n- TIBCO Community update by Heleen Snelting, Director Data Science\n- Discussion and Q&A\n\nYou’ll learn about:\n\n- Personalized pricing use case in industries such as retail, travel, and insurance\n- The agile data fabric with low-code data science and visual analytics\n- Dynamic pricing data science processes such as data prep, feature engineering, machine learning modeling, explainability, model management and deployment\n- Techniques for optimizing pricing models such as undersampling, and probability exploration\n- TIBCO Community resources including the Dynamic Pricing Accelerator\n\nSpeakers:\nMichael O'Connell, Chief Analytics Officer, TIBCO Software Inc\nHeleen Snelting, Director Data Science, TIBCO Software Inc.\nColin Gray, Sr. Lead Data Scientist, TIBCO Software Inc.",
+                      "duration": "PT1H",
+                      "timezone": "America/Sao_Paulo",
+                      "eventType": "online",
+                      "currency": "USD",
+                      "images": [
+                          {
+                              "id": "501497526",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          }
+                      ],
+                      "venue": {
+                          "id": "26906060",
+                          "address": "",
+                          "neighborhood": null,
+                          "city": "",
+                          "state": "",
+                          "country": "",
+                          "lat": -8.521147,
+                          "lng": 179.1962,
+                          "zoom": 15,
+                          "name": "Online event",
+                          "radius": 500,
+                          "__typename": "Venue"
+                      },
+                      "onlineVenue": null,
+                      "isSaved": false,
+                      "eventUrl": "https://www.meetup.com/Tibco-Brazil-User-Group/events/283400385",
+                      "group": {
+                          "id": "23724819",
+                          "slug": "Tibco-Brazil-User-Group",
+                          "isPrivate": false,
+                          "isOrganizer": false,
+                          "name": "TIBCO Brazil User Group",
+                          "urlname": "Tibco-Brazil-User-Group",
+                          "timezone": "America/Sao_Paulo",
+                          "link": "https://www.meetup.com/Tibco-Brazil-User-Group",
+                          "city": "São Paulo",
+                          "state": "",
+                          "country": "br",
+                          "groupPhoto": {
+                              "id": "484776526",
+                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                              "preview": null,
+                              "__typename": "Image"
+                          },
+                          "__typename": "Group"
+                      },
+                      "going": 3,
+                      "maxTickets": 0,
+                      "tickets": {
+                          "count": 3,
+                          "edges": [
+                              {
+                                  "node": {
+                                      "id": "1901011793!chp",
+                                      "user": {
+                                          "id": "201638141!chp",
+                                          "memberPhoto": {
+                                              "id": "307384658",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901054192!chp",
+                                      "user": {
+                                          "id": "340142068!chp",
+                                          "memberPhoto": {
+                                              "id": "0",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              },
+                              {
+                                  "node": {
+                                      "id": "1901121225!chp",
+                                      "user": {
+                                          "id": "353549934!chp",
+                                          "memberPhoto": {
+                                              "id": "309018412",
+                                              "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+                                              "preview": null,
+                                              "__typename": "Image"
+                                          },
+                                          "__typename": "User"
+                                      },
+                                      "__typename": "Ticket"
+                                  },
+                                  "__typename": "EventTicketsEdge"
+                              }
+                          ],
+                          "__typename": "EventTicketsConnection"
+                      },
+                      "isAttending": false,
+                      "rsvpState": "JOIN_OPEN",
+                      "__typename": "Event"
+                  },
+                  "recommendationId": "7a2108f5-9749-4396-9f36-498899f9b8a0",
+                  "recommendationSource": "ml-popular-events-nearby",
+                  "__typename": "RankedEventsResultEdge"
+              }
+          ],
+          "__typename": "RankedEventsConnection"
+      }
+  }
+}
