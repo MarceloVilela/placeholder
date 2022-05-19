@@ -1,11 +1,11 @@
 import { JSDOM } from 'jsdom';
 
-import IPostsRepository from '@modules/techSource/repositories/IPostRepository';
+import ITechChannelsBRRepository from '@modules/techSource/repositories/ITechChannelsBRRepository';
 import IShowPostDTO from '@modules/techSource/dtos/IShowPostDTO';
 import AppError from '@shared/errors/AppError';
 import ChannelData from '../schemas/ChannelData';
 
-class TechChannelsBR implements IPostsRepository {
+class TechChannelsBR implements ITechChannelsBRRepository {
   getOriginUrl(): string {
     return 'https://github.com/carolcodes/videos-pt.br-tecnologia';
   }

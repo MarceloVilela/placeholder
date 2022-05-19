@@ -23,12 +23,10 @@ class ReactBR implements IReactBRRepository {
       }
     }
 
-    //return [document.documentElement.outerHTML];
     const tbody = document.querySelector("table:nth-of-type(1) tbody")
-    if(!tbody){
-      return [];
-    }
-    const companies = [...tbody.querySelectorAll("tr")]
+    const lines = [...tbody!.querySelectorAll("tr")]
+
+    const companies = lines
       .map(el => getContent(el))
       .map(({ name, address, techs, url }) => ({
         name: String(name),
@@ -36,6 +34,7 @@ class ReactBR implements IReactBRRepository {
         techs: String(techs),
         url: String(url),
       }))
+      .filter(({ techs }) => techs !== 'undefined');
 
     return companies;
   }

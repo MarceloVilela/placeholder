@@ -10,7 +10,6 @@ class ReactBR implements IReactBRRepository {
   }
 
   async listCompanies(): Promise<ReactBRData[]> {
-    console.log(`@ReactBR/listCompanies()`);
     const response = await JSDOM.fromURL(this.getOriginUrl());
     //const response = await JSDOM.fromFile('./src/modules/techSource/infra/crosscutting/repositories/html.html');
     const { document } = response.window;
@@ -24,9 +23,11 @@ class ReactBR implements IReactBRRepository {
       }
     }
 
-    //return [document.documentElement.outerHTML];
+
     const tbody = document.querySelector("table:nth-of-type(1) tbody")
-    const companies = [...tbody.querySelectorAll("tr")]
+    const lines = [...tbody!.querySelectorAll("tr")]
+
+    const companies = lines
       .map(el => getContent(el))
       .map(({ name, address, techs, url }) => ({
         name: String(name),
@@ -34,6 +35,7 @@ class ReactBR implements IReactBRRepository {
         techs: String(techs),
         url: String(url),
       }))
+      .filter(({ techs }) => techs !== 'undefined');
 
     return companies;
   }
