@@ -23,8 +23,9 @@ class MeetUp implements IMeetUpRepository {
 
     )
 
-    const listMeet = data.data.rankedEvents.edges
-      .map(({ node }: any) => getContent(node))
+    const listMeet = data.data
+      ? data.data.rankedEvents.edges.map(({ node }: any) => getContent(node))
+      : []
 
     return listMeet
   }
