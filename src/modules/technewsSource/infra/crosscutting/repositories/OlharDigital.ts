@@ -18,12 +18,12 @@ class OlharDigital implements IArticlesRepository {
     const getContent = (elPost: Element) => ({
       link: elPost.getAttribute('href'),
       title: elPost.getAttribute('title'),
-      thumb: elPost.querySelector('.post-image img')?.getAttribute('src'),
+      thumb: elPost.querySelector('img')?.getAttribute('src'),
       // preview: '',
       created_at: '',
     });
 
-    const postsData = [...document.querySelectorAll('.post-list .card-post'),]
+    const postsData = [...document.querySelectorAll('.od-posts .od-post'),]
       .map((elPost) => getContent(elPost));
 
     return { posts: postsData };
@@ -34,14 +34,14 @@ class OlharDigital implements IArticlesRepository {
     const { document } = response.window;
 
     const link = document
-      .querySelector('.fb-comments')
-      ?.getAttribute('data-href');
+      .querySelector('meta[property="og:url"]')
+      ?.getAttribute('content');
 
-    const title = document.querySelector('.post.current-item')?.textContent;
+    const title = document.querySelector('meta[property="og:description"]')?.getAttribute('content');
 
     const thumb = document
-      .querySelector('.banner img')
-      ?.getAttribute('src');
+      .querySelector('meta[property="og:image"]')
+      ?.getAttribute('content');
 
     const created_at = document.querySelector('meta[property="article:published_time"]')?.getAttribute('content');
 
@@ -84,7 +84,7 @@ class OlharDigital implements IArticlesRepository {
       return {};
     };
 
-    const contents = [...document.querySelectorAll('.post-content *')]
+    const contents = [...document.querySelectorAll('.od-art-content *')]
       .map(elPost => getContent(elPost))
       .map(dataPost => ({
         type: String(dataPost.type),

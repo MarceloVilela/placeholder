@@ -17,14 +17,14 @@ class ExameTecnologia implements IArticlesRepository {
 
     const getContent = (elPost: Element) => {
       return {
-        link: elPost.querySelector('.list-item-title a')?.getAttribute('href'),
-        title: elPost.querySelector('.list-item-title')?.textContent,
-        thumb: elPost.querySelector('.image img')?.getAttribute('data-src'),
+        link: this.getOriginUrl() + elPost.querySelector('h2 a')?.getAttribute('href'),
+        title: elPost.querySelector('h2')?.textContent,
+        thumb: elPost.querySelector('img[src^="http"]')?.getAttribute('src'),
         created_at: elPost.querySelector('.list-date-description')?.textContent
       }
     };
 
-    const postsData = [...document.querySelectorAll('.articles-list .list-item')]
+    const postsData = [...document.querySelectorAll('.row>div>div')]
       .map(elPost => getContent(elPost));
 
     return { posts: postsData };
@@ -34,9 +34,9 @@ class ExameTecnologia implements IArticlesRepository {
     const response = await JSDOM.fromURL(url);
     const { document } = response.window;
 
-    const link = document.querySelector('link[rel="canonical"]')?.getAttribute('href');
+    const link = document.querySelector('meta[property="og:url"]')?.getAttribute('content');
 
-    const title = document.querySelector('h1.article-title')?.textContent;
+    const title = document.querySelector('meta[property="og:title"]')?.getAttribute('content')?.replace(' | Exame', '');
 
     const thumb = document.querySelector('meta[property="og:image"]')?.getAttribute('content');
 
@@ -79,7 +79,7 @@ class ExameTecnologia implements IArticlesRepository {
       return {};
     };
 
-    const contents = Array.from(document.querySelectorAll('.article-content *'))
+    const contents = Array.from(document.querySelectorAll('#news-body *'))
       .map((elPost) => getContent(elPost))
       .map((dataPost) => ({
         type: String(dataPost.type),

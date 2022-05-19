@@ -25,7 +25,7 @@ class TecnoBlog implements IArticlesRepository {
       const created_at = textualDate.split(' por')[0];
 
       return {
-        link: elPost.querySelector('h2 a')?.getAttribute('href'),
+        link: elPost.querySelector('a')?.getAttribute('href'),
         title: elPost.querySelector('h2')?.textContent,
         thumb:
           elPost

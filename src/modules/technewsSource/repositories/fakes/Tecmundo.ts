@@ -26,7 +26,7 @@ class Tecmundo implements IArticlesRepository {
     });
 
     const postsData = [
-      ...document.querySelectorAll('.tec--list.z--mt-24 .tec--list__item'),
+      ...document.querySelectorAll('.tec--list__item article'),
     ].map((elPost) => getContent(elPost));
 
     return { posts: postsData };

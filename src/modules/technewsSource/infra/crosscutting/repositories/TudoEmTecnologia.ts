@@ -19,7 +19,7 @@ class TudoEmTecnologia implements IArticlesRepository {
       return {
         link: this.getOriginUrl() + elPost?.querySelector('.post-title a')?.getAttribute('href'),
         title: elPost?.querySelector('.post-title')?.textContent,
-        thumb: this.getOriginUrl() + elPost.querySelector('img.wp-post-image')?.getAttribute('data-src'),
+        thumb: this.getOriginUrl() + elPost.querySelector('.post-thumb img')?.getAttribute('data-src'),
         created_at: '',
       }
     };

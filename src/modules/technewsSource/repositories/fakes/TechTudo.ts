@@ -19,14 +19,14 @@ class TechTudo implements IArticlesRepository {
 
     const getContent = (elPost: Element) => {
       return {
-        link: elPost.querySelector('.feed-post-body-title a')?.getAttribute('href'),
-        title: elPost.querySelector('.feed-post-body-title')?.textContent,
-        thumb: elPost.querySelector('picture img')?.getAttribute('srcset')?.split(' ')[0],
+        link: elPost.querySelector('div.theme-title-element a')?.getAttribute('href'),
+        title: elPost.querySelector('div.theme-title-element')?.textContent,
+        thumb: elPost.querySelector('img')?.getAttribute('src')?.split(' ')[0],
         created_at: elPost.querySelector('.feed-post-datetime')?.textContent,
       }
     };
 
-    const postsData = [...document.querySelectorAll('.bastian-feed-item')]
+    const postsData = [...document.querySelectorAll('div[data-track-category="pages"]')]
       .map(elPost => getContent(elPost))
 
     return { posts: postsData };

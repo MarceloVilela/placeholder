@@ -21,7 +21,8 @@ class CanalTech implements IArticlesRepository {
       return {
         link: `${url}${elPost.querySelector('a')?.getAttribute('href')}`,
         title: elPost.querySelector('h3')?.textContent,
-        thumb: elPost.querySelector('img')?.getAttribute('src'),
+        thumb: elPost.querySelector('img')?.getAttribute('src')
+          ?? this.getOriginUrl() + document.querySelector('link[rel="apple-touch-icon"]')?.getAttribute('href'),
         created_at: ''
       }
     };
